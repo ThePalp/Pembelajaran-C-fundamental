@@ -1,0 +1,65 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyPm11z4Bm0RkvCuejlG+gLH",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/ThePalp/Pembelajaran-C-fundamental/blob/main/Learn%201-pyhton\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "Materi pertama pembelajaran tentang pyhton"
+      ],
+      "metadata": {
+        "id": "eWGQBg4HyOWC"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "A=2\n",
+        "B=3\n",
+        "C=A+B\n",
+        "print (C)"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "ZBm8YtlJyc0N",
+        "outputId": "08203c79-0de8-403c-f334-7e78036af026"
+      },
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "5\n"
+          ]
+        }
+      ]
+    }
+  ]
+}
